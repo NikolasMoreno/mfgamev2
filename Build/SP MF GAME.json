@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Drunk driving sim",
+"productVersion": "1.0",
+"dataUrl": "SP MF GAME.data.unityweb",
+"wasmCodeUrl": "SP MF GAME.wasm.code.unityweb",
+"wasmFrameworkUrl": "SP MF GAME.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
